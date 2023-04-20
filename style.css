@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(193, 189, 189);
+}
+h1{
+    color: rgb(75, 107, 75);
+    text-align: center;
+}
+#info{
+    text-align: center;
+    
+}\.meme-generator {
+    margin: 20px auto;
+    width: 400px;
+    font-family: sans-serif;
+  }
+  
+  .meme-generator label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .meme-generator input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  
+  #meme {
+    width: 100%;
+  }
+  
+  
